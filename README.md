@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=300&color=FF00FF&center=true&vCenter=true&random=false&width=435&height=45&lines=Front-end+developer;%26+Computer+Science+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=300&color=FF00FF&center=true&vCenter=true&random=false&width=435&height=45&lines=Front-end+developer" alt="Typing SVG" />
 </p>
 
 ## 🛠️ My Favorite Tools
@@ -20,7 +20,7 @@
     <a href="https://dart.dev"><img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white"></a>
     <a href="https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54"></a>
     <a href="https://kotlinlang.org"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%237F52FF?logo=kotlin&logoColor=white"></a>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp"><img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white"></a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-239120.svg?logo=cshrp&logoColor=white"></a>
     <a href="https://www.php.net"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
 
 ### 🧰 Frameworks and Libraries
@@ -64,11 +64,11 @@
 ### 💻 Software and Tools
 
 <p>
-    <a href="https://code.visualstudio.com"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="https://www.microsoft.com/en-us/edge"><img alt="Microsoft Edge" src="https://img.shields.io/badge/Edge-0078D7?logo=Microsoft-edge&logoColor=white"></a>
+	<a href="https://code.visualstudio.com"><img alt="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"></a>
+	<a href="https://www.microsoft.com/en-us/edge"><img alt="Microsoft Edge" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Edge-2771D8.svg?logo=edge-white&logoColor=white"></a>
+	<a href="https://arc.net"><img alt="Arc" src="https://img.shields.io/badge/Arc-FCBFBD.svg?logo=arc&logoColor=000"></a>
     <a href="https://git-scm.com"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="https://www.office.com"><img alt="Microsoft Office" src="https://img.shields.io/badge/MICROSOFT_OFFICE-D83B01?logo=microsoft-word&logoColor=white"></a>
-    <a href="https://stackoverflow.com"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+	<a href="https://buddy.works"><img alt="Buddy" src="https://img.shields.io/badge/Buddy-1A86FD.svg?logo=buddy&logoColor=white"></a>
     <a href="https://www.figma.com"><img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white"></a>
     <a href="https://www.docker.com"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
     <a href="https://swagger.io"><img alt="Swagger" src="https://img.shields.io/badge/Swagger-%23Clojure?logo=swagger&logoColor=white"></a>
@@ -77,7 +77,7 @@
     <a href="https://docs.gitlab.com/ee/ci"><img alt="GitLab CI" src="https://img.shields.io/badge/GitLab_CI-%23181717.svg?logo=gitlab&logoColor=white"></a>
     <a href="https://insomnia.rest"><img alt="Insomnia CI" src="https://img.shields.io/badge/Insomnia-black?logo=insomnia&logoColor=5849BE"></a>
     <a href="https://bun.sh"><img alt="Bun" src="https://img.shields.io/badge/Bun-%23000000.svg?logo=bun&logoColor=white"></a>
-    <a href="https://github.com/microsoft/terminal"><img alt="Windows Terminal" src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?logo=windows-terminal&logoColor=white"></a>
+    <a href="https://github.com/microsoft/terminal"><img alt="Windows Terminal" src="https://custom-icon-badges.demolab.com/badge/Windows%20Terminal-4D4D4D.svg?logo=terminal&logoColor=white"></a>
 </p>
 
 ### 🎮 Gaming
@@ -93,10 +93,12 @@
 ### 👨🏻‍💻 Workspace
 
 <p>
-    <a href="https://www.microsoft.com/en-us/windows"><img alt="Windows 11" src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"></a>
+    <a href="https://www.microsoft.com/en-us/windows"><img alt="Windows 11" src="https://custom-icon-badges.demolab.com/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white"></a>
+    <a href="https://www.apple.com/macos"><img alt="macOS" src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
+    <a href="https://www.apple.com/ios"><img alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"></a>
     <a href="https://www.android.com"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
     <a href="https://ubuntu.com"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white"></a>
-    <a href="https://www.raspberrypi.com/"><img alt="Raspberry Pi" src="https://img.shields.io/badge/RaspberryPi-C51A4A?&style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+    <a href="https://www.raspberrypi.com/"><img alt="Raspberry Pi" src="https://img.shields.io/badge/RaspberryPi-C51A4A?&style=for-the-badge&logo=raspberrypi&logoColor=white"></a>
 </p>
 
 <img src="https://raw.githubusercontent.com/TheMultii/TheMultii/master/bottom.svg">
