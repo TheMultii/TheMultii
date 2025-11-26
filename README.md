@@ -85,8 +85,9 @@
 <p>
     <a href="https://www.nvidia.com/"><img alt="nVIDIA" src="https://img.shields.io/badge/NVIDIA-%2376B900.svg?logo=nvidia&logoColor=white"></a>
     <a href="https://playstation.com/"><img alt="PSN" src="https://img.shields.io/badge/PSN-%230070D1.svg?logo=PlayStation&logoColor=white"></a>
-    <a href="https://playstation.com/"><img alt="PlayStation_4" src="https://img.shields.io/badge/PlayStation 4-003791?logo=PlayStation&logoColor=white"></a>
     <a href="https://playstation.com/"><img alt="PlayStation 5" src="https://img.shields.io/badge/PlayStation_5-003791?logo=PlayStation&logoColor=white"></a>
+    <a href="https://playstation.com/"><img alt="PlayStation_4" src="https://img.shields.io/badge/PlayStation 4-003791?logo=PlayStation&logoColor=white"></a>
+	<a href="https://www.playstation.com/en-us/accessories/playstation-portal-remote-player/"><img alt="PlayStation Portal" src="https://img.shields.io/badge/PlayStation%20Portal-003791.svg?logo=playstation&logoColor=white"></a>
     <a href="https://steamcommunity.com/"><img alt="Steam" src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white"></a>
 </p>
 
